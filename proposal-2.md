@@ -25,7 +25,7 @@ The Australian labour market is already under structural pressure. Health Care a
 
 ### Employment and Task Change
 
-The economic literature draws an important distinction between job-level displacement and task-level automation. Acemoglu and Restrepo (2022) demonstrate that AI and automation primarily affect task bundles within occupations rather than eliminating whole jobs at once. This distinction matters enormously for policy design.
+The economic literature draws an important distinction between job-level displacement and task-level automation. Acemoglu and Restrepo (2022) demonstrate that AI and automation primarily affect task bundles within occupations rather than eliminating whole jobs at once. This distinction matters enormously for policy design as seen in the argument above. 
 
 In healthcare and aged care, AI is automating administrative tasks such as rostering, documentation and medication reminders, while augmenting clinical roles rather than replacing them. Australia's aged care sector employs approximately 456,000 workers and faces a projected shortfall of at least 110,000 direct care workers by 2030 (CEDA 2025). Here, AI tools help stretch an insufficient workforce further rather than reduce it.
 
