@@ -10,7 +10,7 @@ This repository contains the Assessment 2 policy proposal for ECON1626: Economic
 
 **Author:** Maria AlGhamdi
 
-**Topic:** Artificial Intelligence and the Australian Labour Market — a policy proposal advising the Deputy Secretary, Workforce Policy and Innovation, Department of Employment and Workplace Relations, on how to manage AI's impact on the Australian labour market.
+**Topic:** Artificial Intelligence and the Australian Labour Market — a policy proposal advising the Deputy Secretary, Workforce Policy and Innovation, Department of Employment and Workplace Relations..
 
 **Word count:** approximately 1,200 words (proposal body, excluding references and table)
 
